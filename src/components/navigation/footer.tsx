@@ -87,6 +87,11 @@ const Footer = () => {
                                 Resources
                             </h3>
                             <ul className="mt-4 text-sm text-muted-foreground">
+                            <li className="mt-2">
+                                    <Link href="https://github.com/eXeis-ixt/thestartup/tree/main" className="hover:text-foreground transition-all duration-300">
+                                        GitHub
+                                    </Link>
+                                </li>
                                 <li className="mt-2">
                                     <Link href="" className="hover:text-foreground transition-all duration-300">
                                         Blog
